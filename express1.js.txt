@@ -1,0 +1,4 @@
+var s=12;
+var c=3;
+var r=s-c;
+console.log(r);
